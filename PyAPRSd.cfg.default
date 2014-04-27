@@ -1,0 +1,14 @@
+[station]
+callsign = VE7CXZ
+passcode = 19134
+ssid = 6
+symbol = "/?"
+
+[aprsis]
+server = vancouver.aprs2.net
+port = 14580
+filter = "r/48.45/-123.4/20"
+
+[data]
+latitude = 4826.48N
+longitude = 12331.90W
