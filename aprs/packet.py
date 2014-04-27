@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
-import re
+import sys, re
 
 # Packet class
-class APRSPacket(object):
+class Packet(object):
 
   def __init__(self):
     # These data types are taken directly from the APRS spec at http://aprs.org/doc/APRS101.PDF
