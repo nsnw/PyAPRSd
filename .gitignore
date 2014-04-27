@@ -1,1 +1,3 @@
 PyAPRSd.cfg
+*.pyc
+PyAPRSd/*.pyc
