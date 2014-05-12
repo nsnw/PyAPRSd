@@ -1,11 +1,11 @@
 [station]
-callsign = VE7CXZ
-passcode = 19134
+callsign = VE7QQQ
+passcode = 12345
 ssid = 6
 symbol = "/?"
 
 [aprsis]
-server = vancouver.aprs2.net
+server = noam.aprs2.net
 port = 14580
 filter = "r/48.45/-123.4/20"
 
